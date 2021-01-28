@@ -1,0 +1,63 @@
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760124630	Marionette	INFO	Listening on port 46823
+1611760124711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760124721	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760131548	Marionette	INFO	Stopped listening on port 46823
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760443115	Marionette	INFO	Listening on port 38803
+1611760443157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760443164	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611760443887	Marionette	INFO	Stopped listening on port 38803
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760446350	Marionette	INFO	Listening on port 32893
+1611760446415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760446426	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760447109	Marionette	INFO	Stopped listening on port 32893
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760521491	Marionette	INFO	Listening on port 39607
+1611760521526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760521534	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611760522268	Marionette	INFO	Stopped listening on port 39607
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760525112	Marionette	INFO	Listening on port 43635
+1611760525251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760525263	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760525919	Marionette	INFO	Stopped listening on port 43635
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611770094596	Marionette	INFO	Listening on port 37785
+1611770094630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611770094640	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611770095383	Marionette	INFO	Stopped listening on port 37785
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611770098008	Marionette	INFO	Listening on port 44417
+1611770098124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611770098136	Marionette	ERROR	[15] No reply from Marionette:Register
+1611770098785	Marionette	INFO	Stopped listening on port 44417
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611777553511	Marionette	INFO	Listening on port 32895
+1611777553621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611777553628	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611777554324	Marionette	INFO	Stopped listening on port 32895
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611777556794	Marionette	INFO	Listening on port 40983
+1611777556838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611777556846	Marionette	ERROR	[15] No reply from Marionette:Register
+1611777557495	Marionette	INFO	Stopped listening on port 40983
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611777560004	Marionette	INFO	Listening on port 36863
+1611777560110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611777560116	Marionette	ERROR	[15] No reply from Marionette:Register
+1611777560843	Marionette	INFO	Stopped listening on port 36863
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611777563324	Marionette	INFO	Listening on port 35047
+1611777563361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611777563369	Marionette	ERROR	[15] No reply from Marionette:Register
+1611777564000	Marionette	INFO	Stopped listening on port 35047
